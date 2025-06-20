@@ -1,0 +1,6 @@
+Clay;21
+Lucas;22
+Jhon;30
+KK;12
+Lua;15
+Sol;365
